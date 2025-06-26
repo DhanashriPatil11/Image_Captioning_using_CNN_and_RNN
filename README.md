@@ -81,8 +81,6 @@ Tokenization + Padding ➜ LSTM Model Training ➜ Caption Generation
 ## ✍️ Author
 
 **Dhanashri Patil**  
-🎓 BTech in Artificial Intelligence & Machine Learning  
-🔗 [LinkedIn](#)  
 
 ---
 
