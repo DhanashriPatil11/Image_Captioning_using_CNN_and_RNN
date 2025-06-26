@@ -25,6 +25,8 @@ files.upload()  # upload kaggle.json
 !kaggle datasets download -d adityajn105/flickr8k
 !unzip -q flickr8k.zip
 
+---
+
 **🚀 How to Run**
 Open the notebook in Google Colab
 
@@ -38,7 +40,7 @@ Train LSTM model
 
 Generate captions for test images
 
-
+---
 
  **🛠 Tech Stack**
 Python, TensorFlow, Keras
@@ -47,7 +49,7 @@ InceptionV3, LSTM
 
 Google Colab, Kaggle API
 
-
+---
 
 **👩‍💻 Author**
 Dhanashri Patil
