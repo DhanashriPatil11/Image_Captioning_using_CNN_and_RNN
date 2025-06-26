@@ -1,0 +1,15 @@
+
+---
+
+## 📦 requirement.txt
+
+```txt
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+nltk
+tqdm
+opencv-python
+scikit-learn
